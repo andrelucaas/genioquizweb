@@ -8,8 +8,11 @@
 }
 
 body {
-  font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    padding: 25px 50px 75px 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto !important;
 }
 
 .cabecalho {
